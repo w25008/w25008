@@ -2,7 +2,7 @@
 ## こんにちは　😄
 　ミンと申します、ミャンマー出身、　24歳です。ミャンマーの大学を建築工学で卒業しました。
   今は専門学校沖縄ビジネス外語学院のWebプログラミングコースで学んでいる留学生です。
-　学校では、Java Bronze、HTML、CSS、JavaScriptやJLPTなどを勉強しています。
+　学校では |Java Bronze、HTML、CSS、JavaScriptやJLPT|などを勉強しています。
 
 ### 資格:
 - 日本語能力試験JLPT N3
