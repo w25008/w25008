@@ -1,10 +1,12 @@
 # Hi there 👋
 ## こんにちは　👋
-###   私は、専門学校沖縄ビジネス外語学院の
-      Webプログラミングコースで学んでいる
-      サイ・イエ・ミン・アウンです。23歳です。
+ミンと申します、ミャンマー出身です。専門学校沖縄ビジネス外語学院のWebプログラミングコースで学んでいる留学生です。学校では、Java Bronze、HTML、CSS、JavaScriptやJLPTなどを勉強しています。
 
-
+資格 ：建築工学学士
+●日本語能力試験JLPT N3
+● IELTS 7
+● 建築工学士
+●出席率 98％の皆勤賞受賞
 <!--
 **w25008/w25008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
