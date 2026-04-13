@@ -15,6 +15,15 @@
 - 建築工学士🎓
 - CompTIA Tech+💻
 
+###　🛠️ Skills / 勉強中
+- Java ☕
+- JavaScript ✨
+- HTML
+- CSS3
+- MySQL
+- Git / GitHub
+- Visual Studio
+
 ### 目標🎯
 - N１を目指しる
 - 問題解決力を向上させる
