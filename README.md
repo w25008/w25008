@@ -9,7 +9,6 @@
 日本語能力試験JLPT N3
 IELTS 7
 建築工学士
-出席率 98％の皆勤賞受賞
 <!--
 **w25008/w25008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
