@@ -24,6 +24,9 @@
 - Git / GitHub
 - Visual Studio
 
+### 📂 Projects / プロジェクト
+- 📝 Project 1 – ()
+
 ### 目標🎯
 - N１を目指しる
 - 問題解決力を向上させる
