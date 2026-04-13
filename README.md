@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hi there 👋
+## こんにちは　👋
+###   私は、専門学校沖縄ビジネス外語学院の
+      Webプログラミングコースで学んでいる
+      サイ・イエ・ミン・アウンです。23歳です。
+
 
 <!--
 **w25008/w25008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
