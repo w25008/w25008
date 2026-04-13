@@ -15,6 +15,10 @@
 - 建築工学士🎓
 - CompTIA Tech+💻
 
+### 連絡先
+🐙 GitHub:https://github.com/w25008
+📧 Email:w25008@osfl.jp
+
 
 <!--
 **w25008/w25008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
