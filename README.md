@@ -16,8 +16,8 @@
 - CompTIA Tech+💻
 
 ### 連絡先
-🐙 GitHub:https://github.com/w25008
-📧 Email:w25008@osfl.jp
+- 🐙 GitHub:https://github.com/w25008
+- 📧 Email:w25008@osfl.jp
 
 
 <!--
