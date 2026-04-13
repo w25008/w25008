@@ -5,9 +5,10 @@
 　学校では、Java Bronze、HTML、CSS、JavaScriptやJLPTなどを勉強しています。
 
 資格:
-日本語能力試験JLPT N3
-IELTS 7
-建築工学士
+- 日本語能力試験JLPT N3
+- IELTS 7点
+- TOEIC 900点
+- 建築工学士
 <!--
 **w25008/w25008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
