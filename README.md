@@ -4,7 +4,7 @@
   今は専門学校沖縄ビジネス外語学院のWebプログラミングコースで学んでいる留学生です。
 　学校では、Java Bronze、HTML、CSS、JavaScriptやJLPTなどを勉強しています。
 
-*** 資格:
+### 資格:
 - 日本語能力試験JLPT N3
 - IELTS 7点
 - TOEIC 900点
