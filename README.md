@@ -15,7 +15,7 @@
 - 建築工学士🎓
 - CompTIA Tech+💻
 
-###　🛠️ Skills / 勉強中
+### Skills🛠️ / 勉強中
 - Java ☕
 - JavaScript ✨
 - HTML
