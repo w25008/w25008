@@ -25,6 +25,7 @@
 
 ### 📂 Projects / プロジェクト
 - 📝 AQUA Cafe demo (https://github.com/w25008/AQUA-Cafe-demo)
+- coming soon....
 
 ### 目標🎯
 - N１を目指しる
