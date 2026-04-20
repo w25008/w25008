@@ -24,7 +24,7 @@
 - Visual Studio
 
 ### 📂 Projects / プロジェクト
-- 📝 AQUA Cafe demo (https://github.com/w25008/AQUA-Cafe-demo)
+- 📝 AQUA Cafe demo (https://w25008.github.io/Aqua-Cafe/)
 - coming soon....
 
 ### 目標🎯
