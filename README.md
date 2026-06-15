@@ -1,20 +1,25 @@
 # Hi there 👋
-## こんにちは　😄
-　ミンと申します。
+
+## こんにちは 😄
+
+ミンと申します。
+
 - 🎂 24歳
 - 🌍 ミャンマー出身
 - 🎓 建築工学学士
 - 💻 日本でWebプログラミングを勉強中
 - 🔍 問題解決や役に立つアプリ開発に興味があります
 
-### 資格 📜 Certifications & Qualifications:
-- 日本語能力試験JLPT-N3
-- IELTS 7点📝
-- TOEIC 900点📝
-- 建築工学士🎓
-- CompTIA Tech+💻
+### 資格 📜 Certifications & Qualifications
 
-### Skills🛠️ / 勉強中
+- 日本語能力試験 JLPT N3
+- IELTS 7.0 📝
+- TOEIC 900 📝
+- 建築工学士 🎓
+- CompTIA Tech+ 💻
+
+### Skills 🛠️ / 勉強中
+
 - Java ☕
 - JavaScript ✨
 - HTML
@@ -25,39 +30,38 @@
 
 ### 📂 Projects / プロジェクト
 
-📝 AQUA Cafe 
-####HTMLとCSSの練習中に作成した、レスポンシブデザインのカフェウェブサイトのデモです。
-live demo: https://w25008.github.io/Aqua-Cafe/
+#### 📝 AQUA Cafe
+
+HTMLとCSSの練習中に作成した、レスポンシブデザインのカフェウェブサイトのデモです。  
+Live demo: [AQUA Cafe](https://w25008.github.io/Aqua-Cafe/)
+
 #### 📷 Screenshots
 
 | Home Page | Menu |
 | --- | --- |
-| <img width="947" height="436" alt="AQUA Cafe home page" src="https://github.com/user-attachments/assets/602194d4-aa57-463b-9f05-51bb302c0dd4" /> | <img width="626" height="429" alt="AQUA Cafe about page" src="https://github.com/user-attachments/assets/b16b84b0-c2e8-4fbd-914a-f2fb606c7fe2" /> |
+| <img width="947" height="436" alt="AQUA Cafe home page" src="https://github.com/user-attachments/assets/602194d4-aa57-463b-9f05-51bb302c0dd4" /> | <img width="626" height="429" alt="AQUA Cafe menu page" src="https://github.com/user-attachments/assets/b16b84b0-c2e8-4fbd-914a-f2fb606c7fe2" /> |
 
 | Access | Contact Page |
 | --- | --- |
-| <img width="943" height="434" alt="AQUA Cafe menu page" src="https://github.com/user-attachments/assets/4dba23b8-a6c6-4ed2-a13c-8946fcdea5cd" /> | <img width="1579" height="873" alt="AQUA Cafe contact page" src="https://github.com/user-attachments/assets/d39c44c6-3bfc-4481-89fe-fc93f19be968" /> |
+| <img width="943" height="434" alt="AQUA Cafe access page" src="https://github.com/user-attachments/assets/4dba23b8-a6c6-4ed2-a13c-8946fcdea5cd" /> | <img width="1579" height="873" alt="AQUA Cafe contact page" src="https://github.com/user-attachments/assets/d39c44c6-3bfc-4481-89fe-fc93f19be968" /> |
 
+Coming soon...
 
+### 目標 🎯
 
-
-
-- coming soon....
-
-### 目標🎯
-- N１を目指しる
+- JLPT N1を目指す
 - 問題解決力を向上させる
 - 実用的なWebアプリを作る
 - モダンなフレームワークを学ぶ
 - 日本のIT企業で働く
-  
-### 連絡先
-- 🐙 GitHub:https://github.com/w25008
-- 📧 Email:w25008@osfl.jp
 
+### 連絡先
+
+- 🐙 GitHub: [https://github.com/w25008](https://github.com/w25008)
+- 📧 Email: w25008@osfl.jp
 
 <!--
-**w25008/w25008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**w25008/w25008** is a ✨ _special_ ✨ repository because its README.md appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
