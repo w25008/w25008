@@ -24,7 +24,8 @@
 - Visual Studio
 
 ### 📂 Projects / プロジェクト
-- 📝 AQUA Cafe demo (https://w25008.github.io/Aqua-Cafe/)
+HTMLとCSSの練習中に作成した、レスポンシブデザインのカフェウェブサイトのデモです。
+📝 AQUA Cafe demo (https://w25008.github.io/Aqua-Cafe/)
 #### 📷 Screenshots
 
 | Home Page | Menu |
