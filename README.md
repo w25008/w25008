@@ -25,10 +25,16 @@
 
 ### 📂 Projects / プロジェクト
 - 📝 AQUA Cafe demo (https://w25008.github.io/Aqua-Cafe/)
-- <img width="626" height="429" alt="スクリーンショット 2026-06-15 155906" src="https://github.com/user-attachments/assets/602194d4-aa57-463b-9f05-51bb302c0dd4" />
-- <img width="626" height="429" alt="スクリーンショット 2026-06-15 160002" src="https://github.com/user-attachments/assets/b16b84b0-c2e8-4fbd-914a-f2fb606c7fe2" />
-- <img width="626" height="429" alt="スクリーンショット 2026-06-15 160134" src="https://github.com/user-attachments/assets/4dba23b8-a6c6-4ed2-a13c-8946fcdea5cd" />
-- <img width="626" height="429" alt="スクリーンショット 2026-06-15 160231" src="https://github.com/user-attachments/assets/d39c44c6-3bfc-4481-89fe-fc93f19be968" />
+#### 📷 Screenshots
+
+| Home Page | About Page |
+| --- | --- |
+| <img width="947" height="436" alt="AQUA Cafe home page" src="https://github.com/user-attachments/assets/602194d4-aa57-463b-9f05-51bb302c0dd4" /> | <img width="626" height="429" alt="AQUA Cafe about page" src="https://github.com/user-attachments/assets/b16b84b0-c2e8-4fbd-914a-f2fb606c7fe2" /> |
+
+| Menu Page | Contact Page |
+| --- | --- |
+| <img width="943" height="434" alt="AQUA Cafe menu page" src="https://github.com/user-attachments/assets/4dba23b8-a6c6-4ed2-a13c-8946fcdea5cd" /> | <img width="1579" height="873" alt="AQUA Cafe contact page" src="https://github.com/user-attachments/assets/d39c44c6-3bfc-4481-89fe-fc93f19be968" /> |
+
 
 
 
