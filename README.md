@@ -21,9 +21,7 @@
 
 - Java ☕
 - JavaScript ✨
-- HTML
-- CSS3
-- MySQL
+- HTML&CSS
 - Git / GitHub
 - Visual Studio
 
