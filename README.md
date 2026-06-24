@@ -13,7 +13,6 @@
 ### 資格 📜 Certifications & Qualifications
 
 - 日本語能力試験 JLPT N3
-- IELTS 7.0 📝
 - TOEIC 900 📝
 - 建築工学士 🎓
 - CompTIA Tech+ 💻
